@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://marn-group.com/index.html</loc>
+    <html:link rel="alternate" hreflang="ru" href="https://marn-group.com/index.html"/>
+    <html:link rel="alternate" hreflang="en" href="https://marn-group.com/en/index.html"/>
+    <html:link rel="alternate" hreflang="x-default" href="https://marn-group.com/index.html"/>
+  </url>
+  <url>
+    <loc>https://marn-group.com/en/index.html</loc>
+    <html:link rel="alternate" hreflang="ru" href="https://marn-group.com/index.html"/>
+    <html:link rel="alternate" hreflang="en" href="https://marn-group.com/en/index.html"/>
+    <html:link rel="alternate" hreflang="x-default" href="https://marn-group.com/index.html"/>
+  </url>
+  <url>
+    <loc>https://marn-group.com/logistics.html</loc>
+    <html:link rel="alternate" hreflang="ru" href="https://marn-group.com/logistics.html"/>
+    <html:link rel="alternate" hreflang="en" href="https://marn-group.com/en/logistics.html"/>
+    <html:link rel="alternate" hreflang="x-default" href="https://marn-group.com/logistics.html"/>
+  </url>
+  <url>
+    <loc>https://marn-group.com/en/logistics.html</loc>
+    <html:link rel="alternate" hreflang="ru" href="https://marn-group.com/logistics.html"/>
+    <html:link rel="alternate" hreflang="en" href="https://marn-group.com/en/logistics.html"/>
+    <html:link rel="alternate" hreflang="x-default" href="https://marn-group.com/logistics.html"/>
+  </url>
+  <url>
+    <loc>https://marn-group.com/terminal.html</loc>
+    <html:link rel="alternate" hreflang="ru" href="https://marn-group.com/terminal.html"/>
+    <html:link rel="alternate" hreflang="en" href="https://marn-group.com/en/terminal.html"/>
+    <html:link rel="alternate" hreflang="x-default" href="https://marn-group.com/terminal.html"/>
+  </url>
+  <url>
+    <loc>https://marn-group.com/en/terminal.html</loc>
+    <html:link rel="alternate" hreflang="ru" href="https://marn-group.com/terminal.html"/>
+    <html:link rel="alternate" hreflang="en" href="https://marn-group.com/en/terminal.html"/>
+    <html:link rel="alternate" hreflang="x-default" href="https://marn-group.com/terminal.html"/>
+  </url>
+  <url>
+    <loc>https://marn-group.com/containers.html</loc>
+    <html:link rel="alternate" hreflang="ru" href="https://marn-group.com/containers.html"/>
+    <html:link rel="alternate" hreflang="en" href="https://marn-group.com/en/containers.html"/>
+    <html:link rel="alternate" hreflang="x-default" href="https://marn-group.com/containers.html"/>
+  </url>
+  <url>
+    <loc>https://marn-group.com/en/containers.html</loc>
+    <html:link rel="alternate" hreflang="ru" href="https://marn-group.com/containers.html"/>
+    <html:link rel="alternate" hreflang="en" href="https://marn-group.com/en/containers.html"/>
+    <html:link rel="alternate" hreflang="x-default" href="https://marn-group.com/containers.html"/>
+  </url>
+  <url>
+    <loc>https://marn-group.com/modular.html</loc>
+    <html:link rel="alternate" hreflang="ru" href="https://marn-group.com/modular.html"/>
+    <html:link rel="alternate" hreflang="en" href="https://marn-group.com/en/modular.html"/>
+    <html:link rel="alternate" hreflang="x-default" href="https://marn-group.com/modular.html"/>
+  </url>
+  <url>
+    <loc>https://marn-group.com/en/modular.html</loc>
+    <html:link rel="alternate" hreflang="ru" href="https://marn-group.com/modular.html"/>
+    <html:link rel="alternate" hreflang="en" href="https://marn-group.com/en/modular.html"/>
+    <html:link rel="alternate" hreflang="x-default" href="https://marn-group.com/modular.html"/>
+  </url>
+  <url>
+    <loc>https://marn-group.com/contacts.html</loc>
+    <html:link rel="alternate" hreflang="ru" href="https://marn-group.com/contacts.html"/>
+    <html:link rel="alternate" hreflang="en" href="https://marn-group.com/en/contacts.html"/>
+    <html:link rel="alternate" hreflang="x-default" href="https://marn-group.com/contacts.html"/>
+  </url>
+  <url>
+    <loc>https://marn-group.com/en/contacts.html</loc>
+    <html:link rel="alternate" hreflang="ru" href="https://marn-group.com/contacts.html"/>
+    <html:link rel="alternate" hreflang="en" href="https://marn-group.com/en/contacts.html"/>
+    <html:link rel="alternate" hreflang="x-default" href="https://marn-group.com/contacts.html"/>
+  </url>
+</urlset>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marn-group.com/sitemap.xml
